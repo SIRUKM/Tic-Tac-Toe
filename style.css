@@ -11,6 +11,13 @@ body {
 
 }
 
+h1 {
+    margin: 2rem;
+    font-size: 3rem;
+    color: #191913;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .container {
     height: 70vh;
     display: flex;
@@ -36,7 +43,7 @@ body {
     box-shadow: 0 0 1rem rgb(0, 0, 0, 0.3);
     font-size: 8vmin;
     color: #b0413e;
-    background-color: #ffffc7;
+    background-color: #ffff;
     display: flex;
     justify-content: center;
     align-items: center;
