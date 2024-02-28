@@ -61,3 +61,23 @@ h1 {
     box-shadow: 10px 10px 10px rgb(0, 0, 0, 0.3);
 
 }
+
+
+.new-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: #191913;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0, 0.3);
+}
+
+.msg {
+    color: #ffffc7;
+    font-size: 5vmin;
+}
+
+.msg-container {
+    height: 30vmin;
+}
